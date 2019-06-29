@@ -1,0 +1,196 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Proyecto1
+</name>
+</assembly>
+<members>
+<member name="T:Proyecto1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Proyecto1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Proyecto1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Proyecto1.examenDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Proyecto1.examenDataSet.tablaitem2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto1.examenDataSet.tablaitem2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto1.examenDataSet.tablaitem2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto1.examenDataSetTableAdapters.tablaitem2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto1.examenDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Proyecto1.examenDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Proyecto1.examenDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyecto1.examenDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Proyecto1.examenDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyecto1.examenDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Proyecto1.examenDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Proyecto1.examenDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Proyecto1.examenDataSetTableAdapters.TableAdapterManager.UpdateAll(Proyecto1.examenDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Proyecto1.examenDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Proyecto1.examenDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSet.escenarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSet.pasosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSet.proyectoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSet.escenarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSet.pasosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSet.proyectoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSet.escenarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSet.pasosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSet.proyectoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSetTableAdapters.escenarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSetTableAdapters.pasosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSetTableAdapters.proyectoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Proyecto1.proyectoDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Proyecto1.proyectoDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyecto1.proyectoDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Proyecto1.proyectoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyecto1.proyectoDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Proyecto1.proyectoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Proyecto1.proyectoDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Proyecto1.proyectoDataSetTableAdapters.TableAdapterManager.UpdateAll(Proyecto1.proyectoDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Proyecto1.proyectoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

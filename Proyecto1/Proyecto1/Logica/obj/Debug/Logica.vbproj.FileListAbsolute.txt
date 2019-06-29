@@ -1,0 +1,32 @@
+C:\ProyectoProgramacion#4\Universidad\Proyecto1\Logica\bin\Debug\Logica.dll
+C:\ProyectoProgramacion#4\Universidad\Proyecto1\Logica\bin\Debug\Logica.pdb
+C:\ProyectoProgramacion#4\Universidad\Proyecto1\Logica\bin\Debug\Logica.xml
+C:\ProyectoProgramacion#4\Universidad\Proyecto1\Logica\obj\Debug\Logica.Resources.resources
+C:\ProyectoProgramacion#4\Universidad\Proyecto1\Logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\ProyectoProgramacion#4\Universidad\Proyecto1\Logica\obj\Debug\Logica.dll
+C:\ProyectoProgramacion#4\Universidad\Proyecto1\Logica\obj\Debug\Logica.xml
+C:\ProyectoProgramacion#4\Universidad\Proyecto1\Logica\obj\Debug\Logica.pdb
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\bin\Debug\Logica.dll
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\bin\Debug\Logica.pdb
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\bin\Debug\Logica.xml
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\obj\Debug\Logica.dll
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\obj\Debug\Logica.xml
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\obj\Debug\Logica.pdb
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\bin\Debug\Datos.dll
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\bin\Debug\Datos.pdb
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\P1\Universidad\Proyecto1\Logica\bin\Debug\Datos.xml
+G:\Programación 4\Proyecto1\Proyecto1\Logica\bin\Debug\Logica.dll
+G:\Programación 4\Proyecto1\Proyecto1\Logica\bin\Debug\Logica.pdb
+G:\Programación 4\Proyecto1\Proyecto1\Logica\bin\Debug\Logica.xml
+G:\Programación 4\Proyecto1\Proyecto1\Logica\bin\Debug\Datos.dll
+G:\Programación 4\Proyecto1\Proyecto1\Logica\bin\Debug\Datos.pdb
+G:\Programación 4\Proyecto1\Proyecto1\Logica\bin\Debug\Datos.xml
+G:\Programación 4\Proyecto1\Proyecto1\Logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+G:\Programación 4\Proyecto1\Proyecto1\Logica\obj\Debug\Logica.Resources.resources
+G:\Programación 4\Proyecto1\Proyecto1\Logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+G:\Programación 4\Proyecto1\Proyecto1\Logica\obj\Debug\Logica.dll
+G:\Programación 4\Proyecto1\Proyecto1\Logica\obj\Debug\Logica.xml
+G:\Programación 4\Proyecto1\Proyecto1\Logica\obj\Debug\Logica.pdb
